@@ -4,7 +4,7 @@ Página inicial do instagram feita com Html, Javascript e Css
 
 Você pode ver o funcionamento dela aqui: https://anahaiek.github.io/tela-inicial-instagram/
 
-### Instagram homepage created with Html, Javascript and css
+### Instagram homepage created with Html, Javascript and Css
 
 You can see here: https://anahaiek.github.io/tela-inicial-instagram/
 
